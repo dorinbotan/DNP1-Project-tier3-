@@ -1,0 +1,9 @@
+c:\users\dorin\documents\visual studio 2015\Projects\Tier3Host_2\Tier3Host_2\bin\Debug\Tier3Host_2.exe.config
+c:\users\dorin\documents\visual studio 2015\Projects\Tier3Host_2\Tier3Host_2\bin\Debug\Tier3Host_2.exe
+c:\users\dorin\documents\visual studio 2015\Projects\Tier3Host_2\Tier3Host_2\bin\Debug\Tier3Host_2.pdb
+c:\users\dorin\documents\visual studio 2015\Projects\Tier3Host_2\Tier3Host_2\bin\Debug\DBAccess.dll
+c:\users\dorin\documents\visual studio 2015\Projects\Tier3Host_2\Tier3Host_2\bin\Debug\Tier3Lib_2.pdb
+c:\users\dorin\documents\visual studio 2015\Projects\Tier3Host_2\Tier3Host_2\bin\Debug\DBAccess.pdb
+c:\users\dorin\documents\visual studio 2015\Projects\Tier3Host_2\Tier3Host_2\obj\Debug\Tier3Host_2.csprojResolveAssemblyReference.cache
+c:\users\dorin\documents\visual studio 2015\Projects\Tier3Host_2\Tier3Host_2\obj\Debug\Tier3Host_2.exe
+c:\users\dorin\documents\visual studio 2015\Projects\Tier3Host_2\Tier3Host_2\obj\Debug\Tier3Host_2.pdb

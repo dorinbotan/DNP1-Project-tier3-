@@ -1,0 +1,7 @@
+c:\users\dorin\documents\visual studio 2015\Projects\Tier3Lib\Tier3Lib\obj\Debug\Tier3Lib.csprojResolveAssemblyReference.cache
+c:\users\dorin\documents\visual studio 2015\Projects\Tier3Lib\Tier3Lib\bin\Debug\Tier3Lib.dll
+c:\users\dorin\documents\visual studio 2015\Projects\Tier3Lib\Tier3Lib\bin\Debug\Tier3Lib.pdb
+c:\users\dorin\documents\visual studio 2015\Projects\Tier3Lib\Tier3Lib\bin\Debug\DBAccess.dll
+c:\users\dorin\documents\visual studio 2015\Projects\Tier3Lib\Tier3Lib\bin\Debug\DBAccess.pdb
+c:\users\dorin\documents\visual studio 2015\Projects\Tier3Lib\Tier3Lib\obj\Debug\Tier3Lib.dll
+c:\users\dorin\documents\visual studio 2015\Projects\Tier3Lib\Tier3Lib\obj\Debug\Tier3Lib.pdb
